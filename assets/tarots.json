@@ -1,0 +1,397 @@
+[
+    {
+        "name": "The Fool",
+        "number": 0,
+        "description": "A young man standing at the edge of a cliff, symbolizing new beginnings and a willingness to take risks."
+    },
+    {
+        "name": "The Magician",
+        "number": 1,
+        "description": "A figure with a raised wand, representing skill, knowledge, and power."
+    },
+    {
+        "name": "The High Priestess",
+        "number": 2,
+        "description": "A woman seated between two pillars, symbolizing intuition, insight, and wisdom."
+    },
+    {
+        "name": "The Empress",
+        "number": 3,
+        "description": "A regal figure surrounded by lush greenery, representing fertility, abundance, and nurturing energy."
+    },
+    {
+        "name": "The Emperor",
+        "number": 4,
+        "description": "A powerful figure seated on a throne, symbolizing structure, authority, and leadership."
+    },
+    {
+        "name": "The Hierophant",
+        "number": 5,
+        "description": "A figure seated in a temple, representing tradition, conformity, and spiritual guidance."
+    },
+    {
+        "name": "The Lovers",
+        "number": 6,
+        "description": "Two figures embracing, symbolizing relationships, choices, and commitment."
+    },
+    {
+        "name": "The Chariot",
+        "number": 7,
+        "description": "A charioteer riding a chariot pulled by two sphinxes, representing willpower, control, and determination."
+    },
+    {
+        "name": "Strength",
+        "number": 8,
+        "description": "A figure gently taming a lion, symbolizing inner strength, courage, and self-control."
+    },
+    {
+        "name": "The Hermit",
+        "number": 9,
+        "description": "A figure holding a lantern and standing alone on a mountain peak, representing introspection, wisdom, and guidance."
+    },
+    {
+        "name": "Wheel of Fortune",
+        "number": 10,
+        "description": "A wheel with various symbols and figures, representing the cycle of life, fate, and change."
+    },
+    {
+        "name": "Justice",
+        "number": 11,
+        "description": "A figure holding a scale and a sword, representing balance, fairness, and accountability."
+    },
+    {
+        "name": "The Hanged Man",
+        "number": 12,
+        "description": "A figure hanging upside down from a tree, representing sacrifice, perspective, and new beginnings."
+    },
+    {
+        "name": "Death",
+        "number": 13,
+        "description": "A figure riding a horse and holding a scythe, representing transformation, change, and rebirth."
+    },
+    {
+        "name": "Temperance",
+        "number": 14,
+        "description": "A figure pouring water from one vessel to another, representing balance, harmony, and moderation."
+    },
+    {
+        "name": "The Devil",
+        "number": 15,
+        "description": "A figure with horns and a tail, representing temptation, materialism, and addiction."
+    },
+    {
+        "name": "The Tower",
+        "number": 16,
+        "description": "A tower struck by lightning, representing upheaval, chaos, and sudden change."
+    },
+    {
+        "name": "The Star",
+        "number": 17,
+        "description": "A figure pouring water from a jug, surrounded by stars, representing hope, renewal, and positive energy."
+    },
+    {
+        "name": "The Moon",
+        "number": 18,
+        "description": "A figure standing on a rocky shore, surrounded by a moonlit sky, representing intuition, dreams, and mystery."
+    },
+    {
+        "name": "The Sun",
+        "number": 19,
+        "description": "A smiling figure standing in a sunlit field, representing joy, success, and enlightenment."
+    },
+    {
+        "name": "Judgment",
+        "number": 20,
+        "description": "A figure rising from the dead, representing rebirth, renewal, and self-awareness."
+    },
+    {
+        "name": "The World",
+        "number": 21,
+        "description": "A figure dancing in a circle, surrounded by symbols of the four elements, representing completion, integration, and wholeness."
+    },
+    {
+        "name": "The Fool",
+        "number": 22,
+        "description": "A young man standing at the edge of a cliff, symbolizing new beginnings and a willingness to take risks."
+    },
+    {
+        "name": "The Magician",
+        "number": 23,
+        "description": "A figure with a raised wand, representing skill, knowledge, and power."
+    },
+    {
+        "name": "The High Priestess",
+        "number": 24,
+        "description": "A woman seated between two pillars, symbolizing intuition, insight, and wisdom."
+    },
+    {
+        "name": "The Empress",
+        "number": 25,
+        "description": "A regal figure surrounded by lush greenery, representing fertility, abundance, and nurturing energy."
+    },
+    {
+        "name": "The Emperor",
+        "number": 26,
+        "description": "A powerful figure seated on a throne, symbolizing structure, authority, and leadership."
+    },
+    {
+        "name": "The Hierophant",
+        "number": 27,
+        "description": "A figure seated in a temple, representing tradition, conformity, and spiritual guidance."
+    },
+    {
+        "name": "The Lovers",
+        "number": 28,
+        "description": "Two figures embracing, symbolizing relationships, choices, and commitment."
+    },
+    {
+        "name": "The Chariot",
+        "number": 29,
+        "description": "A charioteer riding a chariot pulled by two sphinxes, representing willpower, control, and determination."
+    },
+    {
+        "name": "Strength",
+        "number": 30,
+        "description": "A figure gently taming a lion, symbolizing inner strength, courage, and self-control."
+    },
+    {
+        "name": "The Hermit",
+        "number": 31,
+        "description": "A figure holding a lantern and standing alone on a mountain peak, representing introspection, wisdom, and guidance."
+    },
+    {
+        "name": "Wheel of Fortune",
+        "number": 32,
+        "description": "A wheel with various symbols and figures, representing the cycle of life, fate, and change."
+    },
+    {
+        "name": "Justice",
+        "number": 33,
+        "description": "A figure holding a scale and a sword, representing balance, fairness, and accountability."
+    },
+    {
+        "name": "The Hanged Man",
+        "number": 34,
+        "description": "A figure hanging upside down from a tree, representing sacrifice, perspective, and new beginnings."
+    },
+    {
+        "name": "Death",
+        "number": 35,
+        "description": "A figure riding a horse and holding a scythe, representing transformation, change, and rebirth."
+    },
+    {
+        "name": "Temperance",
+        "number": 36,
+        "description": "A figure pouring water from one vessel to another, representing balance, harmony, and moderation."
+    },
+    {
+        "name": "The Devil",
+        "number": 37,
+        "description": "A figure with horns and a tail, representing temptation, materialism, and addiction."
+      },
+      {
+        "name": "The Tower",
+        "number": 38,
+        "description": "A tower struck by lightning, representing upheaval, chaos, and sudden change."
+      },
+      {
+        "name": "The Star",
+        "number": 39,
+        "description": "A figure pouring water from a jug, surrounded by stars, representing hope, renewal, and positive energy."
+      },
+      {
+        "name": "The Moon",
+        "number": 40,
+        "description": "A figure standing on a rocky shore, surrounded by a moonlit sky, representing intuition, dreams, and mystery."
+      },
+      {
+        "name": "The Sun",
+        "number": 41,
+        "description": "A smiling figure standing in a sunlit field, representing joy, success, and enlightenment."
+      },
+      {
+        "name": "Judgment",
+        "number": 42,
+        "description": "A figure rising from the dead, representing rebirth, renewal, and self-awareness."
+      },
+      {
+        "name": "The World",
+        "number": 43,
+        "description": "A figure dancing in a circle, surrounded by symbols of the four elements, representing completion, integration, and wholeness."
+      },
+      {
+        "name": "The Fool",
+        "number": 44,
+        "description": "A young man standing at the edge of a cliff, symbolizing new beginnings and a willingness to take risks."
+      },
+      {
+        "name": "The Magician",
+        "number": 45,
+        "description": "A figure with a raised wand, representing skill, knowledge, and power."
+      },
+      {
+        "name": "The High Priestess",
+        "number": 46,
+        "description": "A woman seated between two pillars, symbolizing intuition, insight, and wisdom."
+      },
+      {
+        "name": "The Empress",
+        "number": 47,
+        "description": "A regal figure surrounded by lush greenery, representing fertility, abundance, and nurturing energy."
+      },
+      {
+        "name": "The Emperor",
+        "number": 48,
+        "description": "A powerful figure seated on a throne, symbolizing structure, authority, and leadership."
+      },
+      {
+        "name": "The Hierophant",
+        "number": 49,
+        "description": "A figure seated in a temple, representing tradition, conformity, and spiritual guidance."
+      },
+      {
+        "name": "The Lovers",
+        "number": 50,
+        "description": "Two figures embracing, symbolizing relationships, choices, and commitment."
+      },
+      {
+        "name": "The Chariot",
+        "number": 51,
+        "description": "A charioteer riding a chariot pulled by two sphinxes, representing willpower, control, and determination."
+      },
+      {
+        "name": "Strength",
+        "number": 52,
+        "description": "A figure gently taming a lion, symbolizing inner strength, courage, and self-control."
+      },
+      {
+        "name": "The Hermit",
+        "number": 53,
+        "description": "A figure holding a lantern and standing alone on a mountain peak, representing introspection, wisdom, and guidance."
+      },
+      {
+        "name": "Wheel of Fortune",
+        "number": 54,
+        "description": "A wheel with various symbols and figures, representing the cycle of life, fate, and change."
+      },
+      {
+        "name": "Justice",
+        "number": 55,
+        "description": "A figure holding a scale and a sword, representing balance, fairness, and accountability."
+      },
+      {
+        "name": "The Hanged Man",
+        "number": 56,
+        "description": "A figure hanging upside down from a tree, representing sacrifice, perspective, and new beginnings."
+      },
+      {
+        "name": "Death",
+        "number": 57,
+        "description": "A figure riding a horse and holding a scythe, representing transformation, change, and rebirth."
+      },
+      {
+        "name": "Temperance",
+        "number": 58,
+        "description": "A figure pouring water from one vessel to another, representing balance, harmony, and moderation."
+      },
+      {
+        "name": "The Devil",
+        "number": 59,
+        "description": "A figure with horns and a tail, representing temptation, materialism, and addiction."
+      },
+      {
+        "name": "The Tower",
+        "number": 60,
+        "description": "A tower struck by lightning, representing upheaval, chaos, and sudden change."
+      },
+      {
+        "name": "The Star",
+        "number": 61,
+        "description": "A figure pouring water from a jug, surrounded by stars, representing hope, renewal, and positive energy."
+      },
+      {
+        "name": "The Moon",
+        "number": 62,
+        "description": "A figure standing on a rocky shore, surrounded by a moonlit sky, representing intuition, dreams, and mystery."
+      },
+      {
+        "name": "The Sun",
+        "number": 63,
+        "description": "A smiling figure standing in a sunlit field, representing joy, success, and enlightenment."
+      },
+      {
+        "name": "Judgment",
+        "number": 64,
+        "description": "A figure rising from the dead, representing rebirth, renewal, and self-awareness."
+      },
+      {
+        "name": "The World",
+        "number": 65,
+        "description": "A figure dancing in a circle, surrounded by symbols of the four elements, representing completion, integration, and wholeness."
+      },
+      {
+        "name": "The Fool",
+        "number": 66,
+        "description": "A young man standing at the edge of a cliff, symbolizing new beginnings and a willingness to take risks."
+      },
+      {
+        "name": "The Magician",
+        "number": 67,
+        "description": "A figure with a raised wand, representing skill, knowledge, and power."
+      },
+      {
+        "name": "The High Priestess",
+        "number": 68,
+        "description": "A woman seated between two pillars, symbolizing intuition, insight, and wisdom."
+      },
+      {
+        "name": "The Empress",
+        "number": 69,
+        "description": "A regal figure surrounded by lush greenery, representing fertility, abundance, and nurturing energy."
+      },
+      {
+        "name": "The Emperor",
+        "number": 70,
+        "description": "A powerful figure seated on a throne, symbolizing structure, authority, and leadership."
+      },
+      {
+        "name": "The Hierophant",
+        "number": 71,
+        "description": "A figure seated in a temple, representing tradition, conformity, and spiritual guidance."
+      },
+      {
+        "name": "The Lovers",
+        "number": 72,
+        "description": "Two figures embracing, symbolizing relationships, choices, and commitment."
+      },
+      {
+        "name": "The Chariot",
+        "number": 73,
+        "description": "A charioteer riding a chariot pulled by two sphinxes, representing willpower, control, and determination."
+      },
+      {
+        "name": "Strength",
+        "number": 74,
+        "description": "A figure gently taming a lion, symbolizing inner strength, courage, and self-control."
+      },
+      {
+        "name": "The Hermit",
+        "number": 75,
+        "description": "A figure holding a lantern and standing alone on a mountain peak, representing introspection, wisdom, and guidance."
+      },
+      {
+        "name": "Wheel of Fortune",
+        "number": 76,
+        "description": "A wheel with various symbols and figures, representing the cycle of life, fate, and change."
+      },
+      {
+        "name": "Justice",
+        "number": 77,
+        "description": "A figure holding a scale and a sword, representing balance, fairness, and accountability."
+      },
+      {
+        "name": "The Hanged Man",
+        "number": 78,
+        "description": "A figure hanging upside down from a tree, representing sacrifice, perspective, and new beginnings."
+      }
+]
